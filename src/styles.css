@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap");
+
+html{
+    scroll-behavior: smooth;
+    width: 100vw;
+    height: 100vw;
+    overflow-x: hidden;
+    font-family: 'Ubuntu Mono', monospace;
+    color: black;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+::selection {
+    background: #8AC5FF;
+}
+
+.icon{
+    background-color: #f4f4f4;
+    width: 8vw;
+    height: auto;
+}
+
+h3{
+    color: #69B1F9;
+    text-decoration: underline 5px;
+    font-size: 0.5vw;
+    text-align: left;
+}
+
+a{
+    color: #1d8dfd;
+    flex-direction: row;
+    background-color: white;
+}

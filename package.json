@@ -1,0 +1,24 @@
+{
+  "name": "media-partisanship-visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "author": "Evan Nishi",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json-loader": "^0.5.7",
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-google-charts": "^3.0.15",
+    "react-icons": "^4.1.0",
+    "styled-components": "^5.2.1"
+  }
+}

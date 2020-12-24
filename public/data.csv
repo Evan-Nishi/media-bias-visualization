@@ -1,0 +1,120 @@
+abc-news, 49.47, -1.85,abcnews.go.com,100.51
+al-jazeera, 49.47, -3.71,aljazeera.com,43.39
+alternet, 21.4, -19.16,alternet.org,4.82
+american-thinker, 23.1, 29.82,americanthinker.com,8.3
+ap, 51.98, -1.06,apnews.com,84.48
+axios, 47.36, -5.74,axios.com,16.22
+bbc, 46.56, -3.03,bbc.com,637.73
+bipartisan-report, 19.29, -23.55,bipartisanreport.com,0.8859400000000001
+bloomberg-news, 47.63, -0.85,bloomberg.com,87.47
+breitbart, 20.58, 22.57,breitbart.com,98.74
+business-insider, 43.13, -0.38,businessinsider.com,136.0
+buzzfeed, 43.20, -7.06,buzzfeednews.com,23.21
+cbs, 47.06, -1.85,cbsnews.com,91.45
+chicago-tribune-2, 47.19, 1.45,chicagotribune.com,28.16
+christian-science-monitor, 44.47, -0.21,csmonitor.com,1.71
+christianity-today, 42.91, 7.40,christianitytoday.com,2.59
+cnncom, 42.22, -5.69,cnn.com,1160.0
+common-dreams, 41.70, -17.96,commondreams.org,2.8
+conservative-review, 21.80, 25.30,conservativereview.com,0.67071
+conservative-tribune, 29.69, 17.22,westernjournal.com,33.86
+counterpunch, 25.06, -19.38,counterpunch.org,1.26
+crooks-and-liars, 23.06, -23.46,crooksandliars.com,3.71
+daily-beast-bias-reliability, 34.44, -16.25,thedailybeast.com,49.37
+daily-caller, 23.93, 20.06,dailycaller.com,10.36
+daily-kos, 23.16, -21.49,dailykos.com,18.88
+daily-mail, 30.67, 3.27,dailymail.co.uk, 366.01
+daily-signal, 24.79, 23.31,dailysignal.com,1.52
+democracy-now, 32.91, -19.31,democracynow.org,2.73
+denver-post, 50.2, -2.44,denverpost.com,6.6
+fair, 35.29, -15.98,fair.org,0.20612
+financial-times, 46.71, 0.62,ft.com,42.25
+fiscal-times, 44.72, 1.52,thefiscaltimes.com,0.05027
+fivethirtyeight, 44.73, -4.33,fivethirtyeight.com,74.03
+forbes, 40.27, 0.20,forbes.com,111.06
+foreign-policy, 41.49, -1.65,foreignpolicy.com,5.33
+fortune, 45.15, 0.43,fortune.com,6.04
+forward, 37.57, -5.69,forward.com,2.16
+fox-news-com, 26.75, 15.31,foxnews.com,606.45
+free-speech-tv, 24.77, -22.49,freespeech.org,0.21198
+houston-chronicle, 48.49, -0.76,chron.com,27.0
+huffpost, 39.98, -11.64,huffpost.com,93.41
+infowars, 12.97, 31.05,infowars.com,16.14
+jacobin, 32.32, -19.92,jacobinmag.com,2.67
+judicial-watch, 24.55, 33.63,judicialwatch.org,2.34
+la-times, 48.88, -3.06,latimes.com,54.49
+life-news, 24.49, 24.75,lifenews.com,0.8780800000000001
+marketwatch, 44.80, -0.54,marketwatch.com,89.47
+mother-jones, 37.31, -13.92,motherjones.com,6.54
+national-enquirer, 9.65, 5.41,nationalenquirer.com,0.23885
+national-review, 26.36, 16.23,nationalreview.com,10.44
+nbc, 46.39, -6.11,nbcnews.com, 148.2
+new-republic, 36.43, -12.82,newrepublic.com, 2.28
+new-york-daily-news, 46.01, -3.69,nydailynews.com,20.87
+new-york-post, 38.70, 5.15,nypost.com,128.57
+new-york-times, 47.50, -4.01,nytimes.com,705.35
+news-guts, 34.98, -9.84,newsandguts.com,1.54
+newsmax, 18.78, 23.51,newsmax.com,63.04
+newspunch, 14.39, 28.58,newspunch.com,1.08
+newsweek, 42.1, -8.0,newsweek.com,46.37
+newsy, 48.81, -3.03,newsy.com,0.37776
+npr, 49.90, -2.73,npr.org,133.05
+oann-one-america-news-network, 20.83, 22.00,oann.com, 18.41
+occupy-democrats, 20.00, -25.59,occupydemocrats.com, 0.927
+ozy, 40.99, -5.43,ozy.com,0.8917
+palmer-report, 17.66, -29.37,palmerreport.com,6.72
+pbs, 47.86, -2.37,pbs.org,26.65
+pj-media, 18.36, 20.33,pjmedia.com,14.43
+politico, 46.11, -5.24,politico.com,163.04
+propublica, 47.78, -5.93,propublica.org,4.26
+quartz, 41.34, -3.89,qz.com,10.7
+real-clear-politics, 34.52, 12.42,realclearpolitics.com,49.19
+real-news-network, 40.03, -18.47,therealnews.com,0.21572
+reason, 38.27, 4.12,reason.com,3.96
+redstate, 26.44, 20.08,redstate.com,17.93
+reuters, 51.64, -0.95,reuters.com,87.36
+salon, 35, -16.1,salon.com,11.24
+second-nexus, 24.29, -22.61,secondnexus.com,2.76
+slate, 31.12, -18.47,slate.com,32.56
+talking-points-memo, 41.96, -5.67,talkingpointsmemo.com, 4.51
+advocate, 49.47, -1.85,advocate.com,2.21
+american-conservative, 28.65, 10.82,theamericanconservative.com,1.89
+american-spectator, 22.00, 23.89,spectator.org,1.01
+the-atlantic, 40.16, -6.41,theatlantic.com,46.17
+blaze, 27.34, 15.70,theblaze.com,17.47
+the-bulwark, 34.89, -5.04,thebulwark.com,2.12
+daily-wire, 24.39, 16.35,dailywire.com,26.85
+the-economist, 42.34, -2.43,economist.com,15.44
+epoch-times, 34.7, 13.5,theepochtimes.com,44.53
+federalist, 22.23, 23.29,thefederalist.com,12.87
+gateway-pundit, 12.44, 28.55,thegatewaypundit.com,56.95
+the-guardian, 47.66, -6.45,theguardian.com, 480.81
+hill, 46.23, 0.09,thehill.com,85.66
+independent, 43.2, -4.6,independent.co.uk,139.4
+intercept, 37.76, -15.52,theintercept.com,9.37
+nation, 33.39, -16.89,thenation.com,3.09
+new-yorker, 41.85, -6.90,newyorker.com,20.48
+progressive, 37.79, -17.48,progressive.org,0.15378
+skimm, 41.67, -3.31,theskimm.com,0.83725
+week, 30.98, -8.31,theweek.com,10.69
+thinkprogress, 35.59, -19.12,thinkprogress.org, 0.226
+time, 42.70, -4.35,time.com, 31.58
+tmz, 38.94, -5.63,tmz.com, 51.80
+townhall-2, 33.7, 21.98,townhall.com, 23.77
+truthout, 24.07, -24.40,truthout.org, 1.38
+twitchy, 17.08, 20.57,twitchy.com, 6.9
+usa-today, 46.07, -2.03,usatoday.com, 165.51
+vanity-fair, 35.42, -17.98,vanityfair.com, 20.83
+vice, 38.58, -10.72,news.vice.com, 35.41
+voice-america, 47.31, -5.78,voanews.com, 31.98
+vox, 41.97, -8.75,vox.com, 40.79
+wall-street-journal, 48.33, 1.89,wsj.com, 89.05
+washington-examiner, 29.07, 12.17,washingtonexaminer.com, 22.58
+washington-free-beacon, 35.07, 16.71,freebeacon.com, 1.74
+washington-monthly, 26.91, -14.68,washingtonmonthly.com, 0.801
+washington-post, 43.73, -4.18,washingtonpost.com, 297.70
+washington-times, 31.34, 12.97,washingtontimes.com, 9.98
+wonkette, 15.27, -31.15,wonkette.com, 1.88
+world-truth-tv, 7.41, 8.48,worldtruth.tv, 0.216
+wnd, 16.95, 22.92,wnd.com, 4.71
+zerohedge, 30.04, 10.5,zerohedge.com, 46.67
